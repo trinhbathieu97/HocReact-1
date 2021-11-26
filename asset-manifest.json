@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hocreact-1/static/css/main.18ba5593.chunk.css",
+    "main.js": "/hocreact-1/static/js/main.f711834a.chunk.js",
+    "main.js.map": "/hocreact-1/static/js/main.f711834a.chunk.js.map",
+    "runtime-main.js": "/hocreact-1/static/js/runtime-main.8f84d44c.js",
+    "runtime-main.js.map": "/hocreact-1/static/js/runtime-main.8f84d44c.js.map",
+    "static/js/2.01fb1b02.chunk.js": "/hocreact-1/static/js/2.01fb1b02.chunk.js",
+    "static/js/2.01fb1b02.chunk.js.map": "/hocreact-1/static/js/2.01fb1b02.chunk.js.map",
+    "static/js/3.63402147.chunk.js": "/hocreact-1/static/js/3.63402147.chunk.js",
+    "static/js/3.63402147.chunk.js.map": "/hocreact-1/static/js/3.63402147.chunk.js.map",
+    "index.html": "/hocreact-1/index.html",
+    "static/css/main.18ba5593.chunk.css.map": "/hocreact-1/static/css/main.18ba5593.chunk.css.map",
+    "static/js/2.01fb1b02.chunk.js.LICENSE.txt": "/hocreact-1/static/js/2.01fb1b02.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/hocreact-1/static/media/slide-02.1e1f708c.jpg",
+    "static/media/logo-color-1.7af7c1b1.png": "/hocreact-1/static/media/logo-color-1.7af7c1b1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f84d44c.js",
+    "static/js/2.01fb1b02.chunk.js",
+    "static/css/main.18ba5593.chunk.css",
+    "static/js/main.f711834a.chunk.js"
+  ]
+}
